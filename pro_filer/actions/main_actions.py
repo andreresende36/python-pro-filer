@@ -42,7 +42,6 @@ def show_details(context):
     _, file_extension = os.path.splitext(file_name)
 
     print(f"File extension: {file_extension or '[no extension]'}")
-
     py_mod_date = date.fromtimestamp(os.path.getmtime(file_path))
 
     print(f"Last modified date: {py_mod_date}")
