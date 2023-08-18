@@ -1,0 +1,5 @@
+'src/arquivo1.py':                                                    
+5000 (66%)
+'src/arquivo2.py':                                        
+2500 (33%)
+Total size: 7500

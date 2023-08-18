@@ -1,0 +1,3 @@
+'/tmp/pytest-of-andreresende...with_existent_0/test_file2.txt':        18 (18000%)
+'/tmp/pytest-of-andreresende...with_existent_0/test_file1.txt':        14 (14000%)
+Total size: 0.1

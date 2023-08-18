@@ -63,6 +63,16 @@ def show_disk_usage(context):
     print(f"Total size: {total_size}")
 
 
+# context = {
+#     "all_files": [
+#         "/home/andreresende/Trybe/projetos/python-027-python-projeto-pro-filer/pro_filer/actions/beta_actions.py",
+#         "/home/andreresende/Trybe/projetos/python-027-python-projeto-pro-filer/pro_filer/actions/alpha_actions.py",
+#     ]
+# }
+
+# show_disk_usage(context)
+
+
 def show_preview(context):
     """Mostra uma prévia dos detalhes do arquivo ou diretório"""
 
